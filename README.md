@@ -1,16 +1,16 @@
-Hi there, 
+<h4> Hello there, fellow <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h4>
 
-I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer based New Delhi, India. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, NodeJS, MongoDB, RESTful API’s. 
+I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer based New Delhi, India. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, NodeJS, MongoDB, RESTful API’s.
 
 **Talking about Personal Stuff:**
 
 - 💻 Presently, I’m working as a Software Developer Intern with [EdNeed](https://www.edneed.com/).
 - 🌱 I’m currently exploring the field of Machine Learning.
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects. 
+- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects.
 - 💬 Ask me about anything, I'll be glad to help you out.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1zygHFy-VsOG5XNHmTiVka1_Jz_xRfdPF/view) to get more info.
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
@@ -27,12 +27,20 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Github Stats:** 
+**Github Stats:**
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+</p>
+
+<p align="center">
+  
+  [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa) 
+  [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
+  [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786/)](https://medium.com/v.anushka786)
+  [![Gmail Badge](https://img.shields.io/badge/-v.anushka786@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
+
 </p>
 
 Show ❤️ by starring repositories you find good. Also, star and fork this repo if you like to give new feature a try!
-
