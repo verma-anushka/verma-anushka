@@ -1,4 +1,5 @@
 Hi there, 
+
 I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer based New Delhi, India. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, NodeJS, MongoDB, RESTful API’s. 
 
 **Talking about Personal Stuff:**
@@ -25,6 +26,12 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+**Github Stats:** 
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=radical&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&theme=tokyonight">
+</p>
 
 Show ❤️ by starring repositories you find good. Also, star and fork this repo if you like to give new feature a try!
 
