@@ -30,10 +30,9 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 **Github Stats:** 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&theme=dracula">
 </p>
 
 Show ❤️ by starring repositories you find good. Also, star and fork this repo if you like to give new feature a try!
-
 
