@@ -46,10 +46,10 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 
 </p>
 
-Show ❤️ by starring repositories you find good! Also, star and fork this repository if you wish to give this new feature a try! 
+Show ❤️ by starring repositories you find good! Also, star and fork this repository if you wish to give this new feature a try!
 
 <div align="right">
   
-[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
 
 </div>
