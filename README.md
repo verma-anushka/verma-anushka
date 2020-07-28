@@ -1,4 +1,4 @@
-<h4> Hello there, fellow <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h4>
+<h4> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h4>
 
 I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer based New Delhi, India. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, NodeJS, MongoDB, RESTful API’s.
 
@@ -46,4 +46,10 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 
 </p>
 
-Show ❤️ by starring repositories you find good. Also, star and fork this repo if you like to give new feature a try!
+Show ❤️ by starring repositories you find good! Also, star and fork this repository if you wish to give this new feature a try! 
+
+<div align="right">
+  
+[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+
+</div>
