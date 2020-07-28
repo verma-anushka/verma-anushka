@@ -50,6 +50,6 @@ Show ❤️ by starring repositories you find good! Also, star and fork this rep
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
 
 </div>
