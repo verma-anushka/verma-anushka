@@ -11,11 +11,26 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1zygHFy-VsOG5XNHmTiVka1_Jz_xRfdPF/view) to get more info.
 
  ---
-  
+ 
 ### Currently I am working ...
-- ... as a **Software Developer Intern** at EdNeed Technologies Pvt. Ltd. where I have been assisting in the (design and) development of the flagship remote education portal, Edneed.com, using the MERN tech stack. 
-- ... as a **Technical Content Writer** intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
 
+- <div>
+    <img width="250" height="100" align='left' src="./images/edneed.jpg">
+    ... as a <strong>Software Developer Intern</strong> at EdNeed Technologies Pvt. Ltd. where I have been assisting in the (design and) development of the flagship remote education portal, Edneed.com, using the MERN tech stack.
+    <br />
+    <strong>View: </strong> <a href="https://edneed.com" >edneed.com</a> 
+    <br /> 
+  </div>
+- <div>
+    <img width="250" height="100" align='right' src="./images/gfg.png">
+    ... as a <strong>Technical Content Writer</strong> intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
+    <br />
+    <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/verma_anushka/articles" >Geeks for Geeks</a> 
+    <br /> 
+  </div> 
+
+ ---
+ 
 **Languages and Tools:**
 
 <p align="center">
@@ -27,6 +42,8 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
   </div>
   </p>
 
+ ---
+ 
 **Github Stats:**
 
 <p align="center">
@@ -36,7 +53,8 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 
 </p>
 
-<hr>
+ ---
+ 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
