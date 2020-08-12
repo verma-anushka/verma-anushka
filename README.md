@@ -10,6 +10,12 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 - 💬 Ask me about anything, I'll be glad to help you out.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1zygHFy-VsOG5XNHmTiVka1_Jz_xRfdPF/view) to get more info.
 
+ ---
+  
+### Currently I am working ...
+- ... as a **Software Developer Intern** at EdNeed Technologies Pvt. Ltd. where I have been assisting in the (design and) development of the flagship remote education portal, Edneed.com, using the MERN tech stack. 
+- ... as a **Technical Content Writer** intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
+
 **Languages and Tools:**
 
 <p align="center">
