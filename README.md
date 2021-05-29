@@ -7,7 +7,7 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), an experienc
 **Currently I am working ...**
 
 - <div>
-    <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/edneed.jpg" >
+    <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/hopsteiner.png" >
     ... as a <strong>Freelancer</strong> for a US based organization- Hopsteiner, where I am working on designing & developing an internal web application to analyze, integrate, access, and visualize hop data.
     <br />
     <strong>Tech Stack: </strong> React, Javascript, Typescript, NodeJS, ExpressJS, MySQL, AWS 
